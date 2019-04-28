@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+YMX_GAME/Debug/
+Debug/
+ipch/
